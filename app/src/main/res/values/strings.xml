@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project2Du</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="gro">ADD SOMETEXT BRO</string>
+    <string name="der">Click Me</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
